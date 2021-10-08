@@ -7,7 +7,7 @@ var rango;
 
 rango = document.getElementById("rango");
 rango.innerHTML = "Colaborador";
-rango.style.color = "#000000";
+rango.style.color = "#ff0000";
 
 var web;
 
